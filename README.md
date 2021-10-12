@@ -1,1 +1,5 @@
-# mdplprak
+- mdplprak
+- Latif Ma'ruf
+- 5200411496
+- informatika
+- 
